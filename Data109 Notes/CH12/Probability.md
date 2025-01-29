@@ -1,0 +1,1 @@
+Of an outcome is that the proportion of times an event would occur under repetitions

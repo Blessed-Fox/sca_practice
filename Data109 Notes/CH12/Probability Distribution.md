@@ -1,0 +1,1 @@
+All possible outcomes of a random variable with probabilities assigned to each event

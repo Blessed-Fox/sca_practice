@@ -1,0 +1,1 @@
+Categorical Data is descriptive of a quality something has.

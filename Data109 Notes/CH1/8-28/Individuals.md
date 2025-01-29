@@ -1,0 +1,1 @@
+An individual is the object you are recording [Data](What%20is%20Data.md) about, or the object you are studying.

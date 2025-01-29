@@ -1,0 +1,1 @@
+All values a variable can take and how often it takes those values.
